@@ -1,0 +1,24 @@
+Table
+
+1. user
+	a. id_user
+	b. password
+	c. email
+	d. team_name
+	# e. score. dynamic scoring
+	f. timestamp
+
+2. problem
+	a. id_problem
+	b. categori
+	c. name_problem
+	d. isi_problem
+	e. multiplier
+	f. id_owner
+	g. flag
+
+3. submission
+	a. timestamp
+	b. flag_submit
+	c. id_user
+	d. flag_owner_id

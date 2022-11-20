@@ -1,0 +1,32 @@
+{
+	"team":[
+		{
+			"name":"team1",
+			"password":"naon",
+			"score":"",
+			"flag_submitted":[
+				"agrihack{1}",
+				"agrihack{2}"
+			],
+
+			"last_submitted":"tanggal"
+
+		}, 
+
+		{
+			"name":"team2",
+			"password":"naon",
+			"score":"",
+			"flag_submitted":[
+				"agrihack{1}",
+				"agrihack{2}"
+			],
+			"last_submitted":"tanggal"
+
+		}, 
+
+	],
+
+
+	
+}
